@@ -1,12 +1,31 @@
-This day was focused on refreshing core Python skills to prepare skills to prepare for the ML Journey.
+📘 ML Journey 2025
 
-Topics Covered:
-- List Comprehension
-- Word Frequency with 'collections.Counter'
-- Custom class using OOP
-- Sorting with lambda
+This repository tracks my daily progress as I learn Machine Learning from scratch.
 
-Files:
-- `word_frequency.py`: Counts word frequency using a dictionary
-- `student_class.py`: Defines a basic Student class with attributes and method
-- `list_comprehension.py`: Practice on squaring even numbers and sorting tuples
+
+📅 Daily Progress
+
+- **Day 1**: Python Basics – Lists, Loops, Functions, OOP  
+  Folder: `Day_01_Python_Warmup`
+
+- **Day 2**: NumPy Basics (coming soon)
+
+- More days coming up...
+
+---
+
+## 🛠️ Tools Used
+
+- Python
+- Jupyter Notebook / VS Code
+- Git and GitHub
+
+---
+
+## 🔗 Why This Repo?
+
+- To stay consistent with learning
+- To track my daily work in one place
+- To build a strong ML foundation step by step
+
+Feel free to explore. I hope it helps you too!
